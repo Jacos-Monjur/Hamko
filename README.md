@@ -42,6 +42,6 @@ php artisan migrate --seed
 php artisan config:cache
 ```
 ## Import POSTMAIN API
-
+postman api json  have a root direct.so please import this json in your postman app 
 change local_url and set access  Bearer token inside postman 
 ![Alt text](image.png)
