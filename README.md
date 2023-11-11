@@ -24,7 +24,9 @@ cp .env.example .env
 ```
 # edit .env and Add KEY
 
-OPEN_API_KEY=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
+OPEN_API_KEY={{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}}
+
+remove curly bracket 
 
 set DB_DATABASE name and DB_USERNAME name and DB_PASSWORD 
 
